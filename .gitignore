@@ -1,0 +1,10 @@
+*.gba
+*.gbc
+*.gb
+*.nds
+*.sav
+*.sgm
+*.ss[0-9]
+*.state
+*.exe
+*.dll
